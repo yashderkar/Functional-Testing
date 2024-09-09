@@ -1,1 +1,1 @@
-# UI-Testing
+# Functional Testing
